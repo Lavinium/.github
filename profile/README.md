@@ -1,5 +1,5 @@
 ## Lavinium
-An organization that specializes is Rust packagages inspired by the acient port city of Latium. 
+An organization that specializes in OCaml and ReasonML packages. 
 
 ## Projects In Progress
-- [ ] Rust Container
+- [ ] Melange Vite Plugin
