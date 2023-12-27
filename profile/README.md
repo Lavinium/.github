@@ -6,3 +6,5 @@ An organization that specializes in OCaml and ReasonML packages.
 - [ ] ReasonML Project Examples
   - [x] Esy: Empty Project
   - [ ] Esy: Hello Unit Testing
+- [ ] Awesome OCaml
+- [ ] Awesome ReasonML
