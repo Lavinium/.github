@@ -2,4 +2,7 @@
 An organization that specializes in OCaml and ReasonML packages. 
 
 ## Projects In Progress
-- [ ] Melange Vite Plugin
+- [x] Melange Vite Plugin
+- [ ] ReasonML Project Examples
+  - [x] Esy: Empty Project
+  - [ ] Esy: Hello Unit Testing
