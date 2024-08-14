@@ -1,2 +1,2 @@
 ## Lavinium
-Projects that need to be migrated
+Projects that need to be migrated or archived.
